@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="bcd.TesteExemplo01SQLite" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-06-23T22:34:53.408Z" hostname="ANALU" time="0.309">
+  <properties/>
+  <testcase name="testeAincluirRegistro()" classname="bcd.TesteExemplo01SQLite" time="0.034"/>
+  <testcase name="testeBlistarRegistros()" classname="bcd.TesteExemplo01SQLite" time="0.037"/>
+  <testcase name="testeDalterarRegistro()" classname="bcd.TesteExemplo01SQLite" time="0.053"/>
+  <testcase name="testeEexcluirRegistro()" classname="bcd.TesteExemplo01SQLite" time="0.103"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[jun. 23, 2025 7:34:53 PM bcd.TesteExemplo01SQLite testeBlistarRegistros
+INFO: 
+---------------------------------------------------------------------------------
+|ID   |Nome                     |Peso      |Altura    |Email                    |
+---------------------------------------------------------------------------------
+|1    |Aluno Teste              |85,20     |180       |aluno@teste.com.br       |
+---------------------------------------------------------------------------------
+
+]]></system-err>
+</testsuite>
